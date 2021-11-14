@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 
-* Sex Ratios Reveal Infant mortality ([link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf))
+* Sex Ratios Reveal Infant Mortality ([link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf))
 
 * Infant Mortality in North America 1850-1920: New evidence from sex ratios (_in progress_)
 
