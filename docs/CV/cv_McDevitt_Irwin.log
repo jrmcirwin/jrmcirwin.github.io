@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.10.29)  7 NOV 2021 09:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.10.29)  14 NOV 2021 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,10 +519,10 @@ TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/friend
 texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/friend/.TinyTeX/texmf-dis
 t/fonts/type1/urw/palatino/uplr8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/t
 ype1/urw/palatino/uplri8a.pfb>
-Output written on cv_McDevitt_Irwin.pdf (2 pages, 81380 bytes).
+Output written on cv_McDevitt_Irwin.pdf (2 pages, 81116 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  19 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
