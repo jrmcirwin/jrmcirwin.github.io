@@ -7,9 +7,9 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: docs/index.html
+      href: index.html
     - text: "Research"
-      href: docs/research.html
+      href: research.html
     - text: "CV"
       href: CV/cv_McDevitt_Irwin.pdf
 output: distill::distill_article
