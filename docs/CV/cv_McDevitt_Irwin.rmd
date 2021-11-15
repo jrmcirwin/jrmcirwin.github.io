@@ -12,6 +12,7 @@ jobtitle: "PhD Student, Columbia University"
 address: "420 W 118th St · New York, NY 10027"
 fontawesome: yes
 email: jrm2275@columbia.edu
+web: jrmcirwin.github.io
 updated: yes
 
 keywords: R Markdown, academic CV, template
