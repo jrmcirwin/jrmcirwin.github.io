@@ -23,7 +23,7 @@ My research focuses on maternal-infant well-being. My outcome or measure is gene
 
 \newpage
 
-# The 2008 Food Crisis in Senegal: Maternal-Infant Health and Parental-Social Responses[^1]
+# The 2008 Food Crisis in Senegal: Maternal-Infant Health and Parental-Social Responses
 
 __Motivation__: The world's poor are increasingly dependent on local and international markets for their food [@bernsteinClassDynamicsAgrarian2010], entangling the food security of the world's poor with macro-economic crises. In 2008, such a crisis was realized when world rice prices tripled over a couple of months. Using data from Senegal, I will analyze both the consequences of the crisis on maternal-infant health as well the responses and experiences of the people and communities affected. 
 
@@ -48,7 +48,7 @@ __Data Sources__: Demographic and Health Survey (DHS). Qualitative surveys by th
 
 
 
-# Infant Sex Ratios and Historical Living Standards
+# Sex Ratios and Historical Living Standards
 
 __Motivation__: While abnormally high infant sex ratios have long been studied for their implications for sex-discrimination [@senMore100Million1990], little attention has been given to the phenomenon of abnormally _low_ sex ratios. Recent research in physiology suggests that low sex ratios reflect poor maternal conditions, including pollution, stress and malnutrition. Therefore, infant sex ratios are a potentially informative measure of living standards. Furthermore, infant sex ratios are easily calculated from historical census data, shedding new light on populations for whom we lack basic measures of health and well-being.
 
@@ -65,7 +65,6 @@ __Data Sources__: Historical censuses from Europe, North America, and European c
 # References
 
 
-[^1]: For an outline of the econometric section, see [here](https://jrmcirwin.github.io/nut-trade/outline_dec_2020.pdf).
 
 
 
