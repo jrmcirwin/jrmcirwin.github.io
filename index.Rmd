@@ -9,4 +9,4 @@ output:
   postcards::jolla
 ---
  
-Hello world! I am a cedar-strip canoe builder (on leave) and 4th-year PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University. Trained as an economist, I do interdisciplinary research on health and demography.
+Hello world! I am a cedar-strip canoe builder (on leave) and PhD candidate in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University. Trained as an economist, I do interdisciplinary research on health and demography.
