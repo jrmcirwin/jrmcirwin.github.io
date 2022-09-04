@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Jesse McDevitt-Irwin
 
-jobtitle: "PhD Student, Columbia University"
+jobtitle: "PhD Candidate, Columbia University"
 address: "420 W 118th St · New York, NY 10027"
 fontawesome: yes
 email: jrm2275@columbia.edu
@@ -42,33 +42,12 @@ Queen's University
 
 # Research
 
-Sex ratios Reveal Infant mortality ([_in progress_](jrmcirwin.github.io/sr1/DemPap_1.pdf))
+Sex ratios Reveal Infant mortality (_in progress_)
 
-Sex Ratios and Infant Mortality in North America:1850-1920 (_in progress_)
+US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios (_in progress_)
 
 The Effect of the 2008 Food Price Crisis on Maternal-Infant Anemia in Senegal (_in progress_)
 
-
----
-
-# Teaching Experience
-
-
-Columbia University, Teaching Fellow \hfill 2019--2022
-
-ECON 4301 Economic Growth and Development, _X. Sala-i-Martin_
-
-SDEV 9240 Human Ecology, _J. Shrader_ 
-
-ECON 4500 International Trade,  _R. Juhaz_
-
-\hspace{1cm} 
-
-University of British Columbia, Teaching Assistant \hfill 2016--2017
-
-ECON 337 Economic History of North America, _M. Adshade_
-
-ECON 101 Principles of Economics, _R. Gateman_
 
 ---
 
@@ -92,6 +71,28 @@ Dean's Fellow, Columbia University \hfill 2018-2023
 
 Canadian Economic Association Conference, Canadian Network of Economic History \hfill  2021
 
+Canadian Economic Association Conference, Canadian Network of Economic History \hfill  2022
+
+---
+
+# Teaching Experience
+
+
+Columbia University, Teaching Fellow \hfill 2019--2022
+
+ECON 4301 Economic Growth and Development, _X. Sala-i-Martin_
+
+SDEV 9240 Human Ecology, _J. Shrader_ 
+
+ECON 4500 International Trade,  _R. Juhaz_
+
+\hspace{1cm} 
+
+University of British Columbia, Teaching Assistant \hfill 2016--2017
+
+ECON 337 Economic History of North America, _M. Adshade_
+
+ECON 101 Principles of Economics, _R. Gateman_
 
 ---
 

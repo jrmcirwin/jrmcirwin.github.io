@@ -1,9 +1,9 @@
 {
     "id": "F156151E",
-    "path": "~/Documents/GitHub/jrmcirwin.github.io/CV/cv_McDevitt_Irwin.rmd",
-    "project_path": "CV/cv_McDevitt_Irwin.rmd",
+    "path": "~/Documents/GitHub/jrmcirwin.github.io/docs/CV/cv_McDevitt_Irwin.rmd",
+    "project_path": "docs/CV/cv_McDevitt_Irwin.rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3099901145",
     "contents": "",
     "dirty": false,
     "created": 1660569731710.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1660607870,
+    "lastKnownWriteTime": 1662326185,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1660607870482,
+    "last_content_update": 1662326185681,
     "read_only": false,
     "read_only_alternatives": []
 }
