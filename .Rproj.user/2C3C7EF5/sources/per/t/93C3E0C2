@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/jrmcirwin.github.io/research.rmd",
     "project_path": "research.rmd",
     "type": "r_markdown",
-    "hash": "4106441081",
+    "hash": "244503284",
     "contents": "",
     "dirty": false,
     "created": 1661520181867.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,18",
-        "scrollLine": "8"
+        "cursorPosition": "4,166",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1664793301,
+    "lastKnownWriteTime": 1664794994,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1664793301113,
+    "last_content_update": 1664794994338,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -2,13 +2,13 @@
 title: "Research"
 ---
 
-I study maternal-infant health in both contemporary and historical populations. One part of my dissertation studies the drivers of maternal-infant health in 21st-century Senegal, as well as the consequences of maternal deprivation for inter-generational health.
+I study maternal-infant health in both contemporary and historical populations. One of my projects studies the effects of food insecurity on maternal-infant health in Senegal. 
 
-The second part of my dissertation develops and applies a new indicator for maternal-infant health in historical populations: childhood sex ratios. Using sex-ratio data, we provide new estimates of infant mortality for the 19th-century US.
+In another project, I develop and apply a new indicator for maternal-infant health in historical populations: childhood sex ratios. Using sex-ratio data, we provide new estimates of infant mortality for the 19th-century US.
 
 Broadly speaking, I am interested in the interplay of health and 'development' -- whether in 19th-century North America or 21st-century Senegal.
 
-# Work in Progress
+# Works in Progress
 
 * Childhood Sex Ratios Reveal Infant Mortality ([link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf))
 
