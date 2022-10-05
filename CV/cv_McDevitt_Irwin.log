@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.11)  4 SEP 2022 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.25)  5 OCT 2022 11:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv_McDevitt_Irwin.tex
 (./cv_McDevitt_Irwin.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-05> (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-08-30> (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -189,7 +189,7 @@ Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footer
 ) (/home/friend/.TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 ) (/home/friend/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 (/home/friend/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 (/home/friend/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -221,7 +221,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count276
 \Hy@pagecounter=\count277
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/home/friend/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -231,7 +231,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count278
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -241,29 +241,31 @@ Package hyperref Info: Hyper index ON on input line 4170.
 Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4408.
+\stockwidth=\dimen162
+\stockheight=\dimen163
+Package hyperref Info: Bookmarks ON on input line 4410.
 \c@Hy@tempcnt=\count279
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4746.
-\XeTeXLinkMargin=\dimen162
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen164
 (/home/friend/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/home/friend/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count280
-\Field@Width=\dimen163
-\Fld@charsize=\dimen164
-Package hyperref Info: Hyper figures OFF on input line 6024.
-Package hyperref Info: Link nesting OFF on input line 6029.
-Package hyperref Info: Hyper index ON on input line 6032.
-Package hyperref Info: backreferencing OFF on input line 6039.
-Package hyperref Info: Link coloring OFF on input line 6044.
-Package hyperref Info: Link coloring with OCG OFF on input line 6049.
-Package hyperref Info: PDF/A mode OFF on input line 6054.
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -274,7 +276,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -349,7 +351,7 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
 ) (/home/friend/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box54
 ) (./cv_McDevitt_Irwin.aux)
@@ -417,7 +419,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ) (/home/friend/.TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (/home/friend/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
@@ -482,15 +484,15 @@ Package rerunfilecheck Info: File `cv_McDevitt_Irwin.out' has not changed.
 (rerunfilecheck)             Checksum: 4511B037CEC25713EEBECF2F4C44C1D1;894.
  ) 
 Here is how much of TeX's memory you used:
- 13443 strings out of 479638
- 207062 string characters out of 5878586
- 524387 words of memory out of 5000000
- 31750 multiletter control sequences out of 15000+600000
+ 13451 strings out of 477035
+ 207342 string characters out of 5828120
+ 565147 words of memory out of 5000000
+ 34358 multiletter control sequences out of 15000+600000
  502843 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,76p,1206b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/friend/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_McDevitt_Irwin.pdf (2 pages, 81062 bytes).
+Output written on cv_McDevitt_Irwin.pdf (2 pages, 81047 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
