@@ -13,6 +13,8 @@ address: "420 W 118th St · New York, NY 10027"
 fontawesome: yes
 email: jrm2275@columbia.edu
 updated: yes
+web: jrmcirwin.github.io
+
 
 keywords: R Markdown, academic CV, template
 
@@ -48,12 +50,19 @@ US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios 
 
 The Effect of the 2008 Food Price Crisis on Maternal-Infant Anemia in Senegal (_in progress_)
 
+---
+
+# Affiliations
+
+West African Research Center, Dakar, Senegal \hfill Fall 2022
+
+Center for Economic History, Northwestern University \hfill Spring 2023
 
 ---
 
 # Languages
 
-English  (_native_); French  (_fluent_); Spanish  (_intermediate_); Wolof (_beginner_)
+English  (_native_); French  (_fluent_); Wolof (_intermediate_); Spanish  (_intermediate_)
 
 ---
 

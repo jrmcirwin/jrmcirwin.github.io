@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.25)  5 OCT 2022 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.21)  18 NOV 2022 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv_McDevitt_Irwin.tex
 (./cv_McDevitt_Irwin.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-30> (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-09-28> (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -157,8 +157,8 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 (/home/friend/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/home/friend/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/home/friend/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (/home/friend/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count274
@@ -351,7 +351,7 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks29
 \dt@b=\toks30
 ) (/home/friend/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box54
 ) (./cv_McDevitt_Irwin.aux)
@@ -481,21 +481,21 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 AED: lastpage setting LastPage
 [2] (./cv_McDevitt_Irwin.aux)
 Package rerunfilecheck Info: File `cv_McDevitt_Irwin.out' has not changed.
-(rerunfilecheck)             Checksum: 4511B037CEC25713EEBECF2F4C44C1D1;894.
+(rerunfilecheck)             Checksum: 4F0FF2D47F1C0704044E78875CE76D04;998.
  ) 
 Here is how much of TeX's memory you used:
- 13451 strings out of 477035
- 207342 string characters out of 5828120
- 565147 words of memory out of 5000000
- 34358 multiletter control sequences out of 15000+600000
+ 13453 strings out of 477031
+ 207363 string characters out of 5828026
+ 566315 words of memory out of 5000000
+ 34362 multiletter control sequences out of 15000+600000
  502843 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,12n,76p,1206b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,11n,76p,1206b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/friend/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_McDevitt_Irwin.pdf (2 pages, 81047 bytes).
+Output written on cv_McDevitt_Irwin.pdf (2 pages, 86518 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
