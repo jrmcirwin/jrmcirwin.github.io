@@ -10,7 +10,30 @@ Broadly speaking, I am interested in the interplay of health and 'development' -
 
 # Works in Progress
 
-Click title for abstract:
+_Click title for abstract_
+
+<details class="details-example">
+    <summary> Infant Anemia and the 2008 Food Price Crisis in Senegal ([link](https://jrmcirwin.github.io/SenAnem_082023.pdf)) </summary>
+    <ul>
+    _I estimate the effects of the 2008 food price crisis on child hemoglobin in Senegal. Early-life hemoglobin reflects in-utero iron deposition, making it a bio-marker for maternal malnutrition. By comparing children in-utero during the 2008 crisis to those who were breastfeeding, I develop a quasi-experimental framework to quantify the impact of the 2008 crisis on maternal-infant health. I find large negative impacts of the crisis in urban Senegal, and no impact in rural areas. The effect was largest in Dakar, where it implied a more than doubling of the prevalence childhood anemia, from 1-in-3 children to 3-in-4._
+  </ul>
+</details>
+
+<details class="details-example">
+    <summary> US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios ([link](https://jrmcirwin.github.io/sr1/USimr.pdf)) </summary>
+    <ul>
+    _We offer a new empirical basis for characterizing infant mortality: childhood sex ratios. Because males are biologically more vulnerable than females to infant mortality, high rates of infant death tend to be reflected in female-skewed childhood sex ratios. Assembling historical vital statistics and census data, we document a striking relationship between childhood sex ratios and infant mortality. Based on that relationship, we provide new estimates of infant mortality for the nineteenth-century US, a population for whom we lack vital statistics but have rich census data. We find that infant mortality for US whites was roughly 70–80 deaths per 1000 in the mid-nineteenth century._
+   </ul>
+</details>
+
+<details class="details-example">
+    <summary> Racial Health Inequities in the 19th Century US: Evidence from Childhood Sex
+Ratios ([link](https://jrmcirwin.github.io/sr1/ssmm_disp.pdf)) </summary>
+    <ul>
+    _We introduce childhood sex ratios as a novel indicator of infant mortality and maternal-infant health. Because females have a biological survival advantage in infancy, high rates of infant death tend to skew the surviving population toward females. Using data from 19th-century Europe and settler societies, we document the relationship between infant mortality and under-5 sex ratios. We then apply this relationship to characterize infant mortality for the 19th-century US, where we have census data but not vital statistics. By our estimates, the Black-white infant mortality disparity in the 19th-century US was enormous: nearly 250 points (per 1000 births) . Circa 1850, US whites were among the healthiest of contemporary populations, with 3.3% more males than females in the under-5 population, suggesting infant mortality around 80 deaths per 1000. US Blacks were among the most unhealthy, with 2.2% more females than males in the under-5 population, suggesting infant mortality around 320 deaths per 1000._
+   </ul>
+</details>
+
 
 <details class="details-example">
     <summary> Childhood Sex Ratios Reveal Infant Mortality ([link](https://jrmcirwin.github.io/sr1/DemPap_1.pdf))</summary>
@@ -19,16 +42,3 @@ Click title for abstract:
     </ul>
 </details>
 
-<details class="details-example">
-    <summary> US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios ([link](https://jrmcirwin.github.io/sr1/USimr.pdf)) </summary>
-    <ul>
-    _High rates of infant mortality tend to skew childhood sex ratios toward females, so sex ratio data offer a basis for characterizing infant mortality in populations lacking vital statistics. Using sex ratios from the US census, we find infant mortality for US whites was just over 80 deaths per 1000 births in the mid-nineteenth century. Less than one-half the level found by existing estimates, our results suggest a major revision to prevailing views of nineteenth-century US infant mortality, with white IMR less than one-quarter that of enslaved Blacks._
-   </ul>
-</details>
-
-<details class="details-example">
-    <summary> Infant Anemia and Food Crises in Senegal (_in progress_) </summary>
-    <ul>
-    _Senegal depends heavily on both imported foodstuffs and rainfed agriculture. Both are subject to crises, whether due to food price volatility on the international market or due to delayed onset of the rainy season. I study the impact of such crises on maternal-infant health. This includes immediate effects on birth outcomes and infant anemia, as well as the long-term effects of _in-utero_ exposure to these food crises on human capital outcomes._
-  </ul>
-</details>
