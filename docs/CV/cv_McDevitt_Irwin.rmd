@@ -44,11 +44,13 @@ Queen's University
 
 # Research
 
-Sex ratios Reveal Infant mortality (_in progress_)
+Infant Anemia and the 2008 Food Price Crisis in Senegal ([in progess](https://jrmcirwin.github.io/SenAnem_082023.pdf))
 
-US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios (_in progress_)
+US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios ([in progress](https://jrmcirwin.github.io/sr1/USimr.pdf))
 
-The Effect of the 2008 Food Price Crisis on Maternal-Infant Anemia in Senegal (_in progress_)
+New Evidence on Racial Health Inequities in the 19th Century US ([in progress](https://jrmcirwin.github.io/sr1/ssmm_disp.pdf))
+
+Childhood Sex Ratios Reveal Infant Mortality ([in progress](https://jrmcirwin.github.io/sr1/DemPap_1.pdf))
 
 ---
 
@@ -62,7 +64,7 @@ West African Research Center, Dakar, Senegal \hfill Fall 2022
 
 # Languages
 
-English  (_native_); French  (_fluent_); Wolof (_intermediate_); Spanish  (_intermediate_)
+English  (_native_); French  (_fluent_); Spanish (_B2_); Wolof (_intermediate_)
 
 ---
 
@@ -92,9 +94,11 @@ Canadian Economic Association Conference, Canadian Network of Economic History \
 
 # Teaching Experience
 
-University of Chicago, Lecturer \hfill 2023
+University of Chicago, Lecturer \hfill 2023--2024
 
-SOSC 16300 Global Society-III
+SOSC 16300 Global Society-III (_supervisor Jenny Trinitapoli_)
+
+\hspace{1cm} 
 
 Columbia University, Teaching Fellow \hfill 2019--2022
 

@@ -11,4 +11,4 @@ output:
  
 Hello world! I am a PhD candidate in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University. 
 
-Trained as an economist, I do interdisciplinary research on health and demography. I enjoy teaching, and have been lead instructor or teaching fellow for a variety of courses in economics and the broader social sciences. I also build [cedar-strip canoes](images/canoe.jpg).
+Trained as an economist, I do interdisciplinary research on health and demography. I enjoy teaching and am a lecturer at the University of Chicago. I also build [cedar-strip canoes](images/canoe.jpg).

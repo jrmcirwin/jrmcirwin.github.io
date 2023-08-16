@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.24)  24 JUN 2023 13:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.24)  16 AUG 2023 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,16 +489,16 @@ Package rerunfilecheck Info: File `cv_McDevitt_Irwin.out' has not changed.
 Here is how much of TeX's memory you used:
  13318 strings out of 477683
  201230 string characters out of 5830960
- 1863769 words of memory out of 5000000
+ 1864769 words of memory out of 5000000
  33581 multiletter control sequences out of 15000+600000
  546971 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,12n,79p,1206b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/friend/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_McDevitt_Irwin.pdf (2 pages, 86971 bytes).
+ </home/friend/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on cv_McDevitt_Irwin.pdf (2 pages, 99261 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 134 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  21 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
