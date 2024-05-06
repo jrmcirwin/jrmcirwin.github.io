@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.30)  31 DEC 2023 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.30)  6 MAY 2024 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -430,53 +430,53 @@ Package hyperref Info: Link coloring ON on input line 104.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 116.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 117.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 117.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 118.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 117.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 118.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 117.
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 118.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 117.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 118.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 117.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 118.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 117.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 118.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 117.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 118.
 (/home/friend/.TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 117.
+(Font)              scaled to size 11.40997pt on input line 118.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 117.
+(Font)              scaled to size 8.33606pt on input line 118.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 117.
+(Font)              scaled to size 6.25204pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 117.
+(Font)              scaled to size 11.40997pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 117.
+(Font)              scaled to size 8.33606pt on input line 118.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 117.
+(Font)              scaled to size 6.25204pt on input line 118.
 [1
 
-{/home/friend/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] 
+{/home/friend/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/home/friend/.TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./cv_McDevitt_Irwin.aux)
  ***********
@@ -484,21 +484,21 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
 Package rerunfilecheck Info: File `cv_McDevitt_Irwin.out' has not changed.
-(rerunfilecheck)             Checksum: 230274482631A676DBC4A1BA4A2664AC;940.
+(rerunfilecheck)             Checksum: 7FDA194E78D639C0516473D20F3A39C1;1079.
  ) 
 Here is how much of TeX's memory you used:
- 13354 strings out of 476233
- 202588 string characters out of 5796830
+ 13359 strings out of 476233
+ 202656 string characters out of 5796830
  1936555 words of memory out of 5000000
- 35067 multiletter control sequences out of 15000+600000
+ 35069 multiletter control sequences out of 15000+600000
  591653 words of font info for 89 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,12n,79p,1206b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1206b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/friend/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/friend/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_McDevitt_Irwin.pdf (2 pages, 99261 bytes).
+Output written on cv_McDevitt_Irwin.pdf (3 pages, 100153 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

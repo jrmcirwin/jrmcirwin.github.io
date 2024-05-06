@@ -8,8 +8,8 @@ geometry: margin=1in
 title: "CV"
 author: Jesse McDevitt-Irwin
 
-jobtitle: "PhD Candidate, Columbia University"
-address: "420 W 118th St · New York, NY 10027"
+jobtitle: "Postdoctoral Scholar, Northwestern University"
+address: "2211 Campus Dr · Evanston, IL 60208"
 fontawesome: yes
 email: jrm2275@columbia.edu
 updated: yes
@@ -25,11 +25,17 @@ linkcolor: black
 urlcolor: blue
 ---
 
+# Academic Positions
+
+Northwestern University
+
+>Postdoctoral Scholar at the Center for Economic History  \hfill 2024--2025
+
 # Education
 
 Columbia University
 
->__Ph.D.__ in Sustainable Development  \hfill (expected) 2024
+>__Ph.D.__ in Sustainable Development  \hfill 2024
 
 
 University of British Columbia
