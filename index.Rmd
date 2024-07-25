@@ -4,11 +4,11 @@ image: "enclosure.jpg"
 site: distill::distill_website
 links:
   - label: Email
-    url: "mailto:jrm2275@columbia.edu"
+    url: "mailto:jesse.mcdevittirwin@northwestern.edu"
 output:
   postcards::jolla
 ---
  
-Hello world! I am an outgoing PhD candidate in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University. Starting in Fall 2024, I will be a postdoc at the [Center for Economic History](https://sites.northwestern.edu/cfeh/) at Northwestern University.
+Hello world! I am a postdoctoral scholar at the [Center for Economic History](https://sites.northwestern.edu/cfeh/) at Northwestern University. I obtained a PhD in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University in 2024.
 
 Trained as an economist, I do interdisciplinary research on health and demography. I am also passionate about teaching and lecture part time at the University of Chicago. I also build [cedar-strip canoes](images/canoe.jpg).

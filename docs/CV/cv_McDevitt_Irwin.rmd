@@ -11,7 +11,7 @@ author: Jesse McDevitt-Irwin
 jobtitle: "Postdoctoral Scholar, Northwestern University"
 address: "2211 Campus Dr · Evanston, IL 60208"
 fontawesome: yes
-email: jrm2275@columbia.edu
+email: jesse.mcdevittirwin@northwestern.edu
 updated: yes
 web: jrmcirwin.github.io
 
@@ -50,7 +50,7 @@ Queen's University
 
 # Research
 
-Infant Anemia and the 2008 Food Price Crisis in Senegal ([in progess](https://jrmcirwin.github.io/SenAnem_082023.pdf))
+Child Anemia and the 2008 Food Price Crisis in Senegal (forthcoming at _Demographic Research_)
 
 US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios ([in progress](https://jrmcirwin.github.io/sr1/USimr.pdf))
 
