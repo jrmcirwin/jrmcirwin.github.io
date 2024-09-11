@@ -11,4 +11,9 @@ output:
  
 Hello world! I am a postdoctoral scholar at the [Center for Economic History](https://sites.northwestern.edu/cfeh/) at Northwestern University. I obtained a PhD in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University in 2024.
 
-Trained as an economist, I do interdisciplinary research on health and demography. I am also passionate about teaching and lecture part time at the University of Chicago. I also build [cedar-strip canoes](images/canoe.jpg).
+Trained as an economist, I do interdisciplinary research on health and demography. I am also passionate about teaching and lecture part time at the University of Chicago and Northwestern University. I also build [cedar-strip canoes](images/canoe.jpg).
+
+
+----
+
+2024-09-11: My paper "Child Anemia and the 2008 food price crisis in Senegal" has just [published](https://www.demographic-research.org/articles/volume/51/20) in _Demographic Research_!

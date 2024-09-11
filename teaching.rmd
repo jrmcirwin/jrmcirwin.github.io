@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+# Classes Designed
+
+<details class="details-example">
+    <summary> The Demographic History of the US post 1860 <br>
+    (ECON 323-2) at Northwestern University  (Winter 2025)
+    </summary>
+    <ul>
+    This course examines the demographic history of the US from after the Civil War to the mid 20th century. Students learn core demographic concepts and measures, like fertility and mortality rates. They explore the demographic patterns and changes in the United States. They examine leading theories for fertility and mortality decline, as well as exploring the role of immigration in US history. Students will learn to analyze publicly available census microdata from IPUMS, culminating in an independent research project. 
+  </ul>
+</details>
+
+# Classes Taught
+
+<details class="details-example">
+    <summary> Global Society III: Research Practicum <br>
+    (SOSC-16300) at the University of Chicago  (2023--2024)
+    </summary>
+    <ul>
+    This course introduces students to the process of doing academic research, and moving from being consumers to producers of knowledge. My section focused on demographic research in a global context, including fertility, mortality and immigration. Students developed independent research projects with my guidance, culminating in a mini research paper. 
+  </ul>
+</details>
