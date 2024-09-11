@@ -29,7 +29,9 @@ urlcolor: blue
 
 Northwestern University
 
->Postdoctoral Scholar at the Center for Economic History  \hfill 2024--2025
+> __Postdoctoral Scholar__ at the Center for Economic History  \hfill 2024--2025
+
+---
 
 # Education
 
@@ -48,9 +50,13 @@ Queen's University
 
 ---
 
-# Research
+# Publications
 
-Child Anemia and the 2008 Food Price Crisis in Senegal (forthcoming at _Demographic Research_)
+Child Anemia and the 2008 Food Price Crisis in Senegal. 2024. [_Demographic Research_](https://www.demographic-research.org/articles/volume/51/20).
+
+---
+
+# Working Papers
 
 US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios ([in progress](https://jrmcirwin.github.io/sr1/USimr.pdf))
 
@@ -62,9 +68,13 @@ Childhood Sex Ratios Reveal Infant Mortality ([in progress](https://jrmcirwin.gi
 
 # Teaching Experience
 
+Northwestern University, Lecturer \hfill 2025
+
+ECON 323-2 Economic History of the US post 1860
+
 University of Chicago, Lecturer \hfill 2023--2024
 
-SOSC 16300 Global Society-III (_supervisor Jenny Trinitapoli_)
+SOSC 16300 Global Society-III 
 
 ---
 
@@ -85,6 +95,8 @@ Dean's Fellow, Columbia University \hfill 2018-2023
 ---
 
 # Presentations
+
+Northwestern Economic History Seminar \hfill Oct. 2024
 
 Population Association of America, Annual Meeting \hfill 2023
 
