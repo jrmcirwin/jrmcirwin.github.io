@@ -11,7 +11,7 @@ Broadly speaking, I am interested in the interplay of health and 'development' -
 # Publications
 
 <details class="details-example">
-    <summary> Child Anemia and the 2008 Food Price Crisis in Senegal. 2024. [_Demographic Research_](https://www.demographic-research.org/articles/volume/51/20)). </summary>
+    <summary> Child Anemia and the 2008 Food Price Crisis in Senegal. 2024. [_Demographic Research_](https://www.demographic-research.org/articles/volume/51/20). </summary>
     <ul>
     _I estimate the effects of the 2008 food price crisis on child hemoglobin in Senegal. Early-life hemoglobin reflects in-utero iron deposition, making it a bio-marker for maternal malnutrition. By comparing children in-utero during the 2008 crisis to those who were breastfeeding, I develop a quasi-experimental framework to quantify the impact of the 2008 crisis on maternal-infant health. I find large negative impacts of the crisis in urban Senegal, and no impact in rural areas. The effect was largest in Dakar, where it implied a more than doubling of the prevalence childhood anemia, from 1-in-3 children to 3-in-4._
   </ul>
