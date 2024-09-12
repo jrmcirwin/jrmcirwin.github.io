@@ -5,6 +5,8 @@ site: distill::distill_website
 links:
   - label: Email
     url: "mailto:jesse.mcdevittirwin@northwestern.edu"
+  - label: Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=r-tmJwcAAAAJ"
 output:
   postcards::jolla
 ---
