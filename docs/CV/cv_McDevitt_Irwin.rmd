@@ -62,7 +62,7 @@ Child Anemia and the 2008 Food Price Crisis in Senegal. 2024. [_Demographic Rese
 
 # Working Papers
 
-US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios ([in progress](https://jrmcirwin.github.io/sr1/USimr.pdf))
+US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios (revisions requested, _Demographic Research_, [link](https://jrmcirwin.github.io/sr1/USimr.pdf))
 
 New Evidence on Racial Health Inequities in the 19th Century US ([in progress](https://jrmcirwin.github.io/sr1/ssmm_disp.pdf))
 

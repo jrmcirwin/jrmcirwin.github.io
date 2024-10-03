@@ -21,7 +21,7 @@ Broadly speaking, I am interested in the interplay of health and 'development' -
 # Working Papers
 
 <details class="details-example">
-    <summary> US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios (under review, [link](https://jrmcirwin.github.io/sr1/USimr.pdf)) </summary>
+    <summary> US Infant Mortality in the 19th Century: New Evidence from Childhood Sex Ratios (revisions requested, _Demographic Research_, [link](https://jrmcirwin.github.io/sr1/USimr.pdf)) </summary>
     <ul>
     _We offer a new empirical basis for characterizing infant mortality: childhood sex ratios. Because males are biologically more vulnerable than females to infant mortality, high rates of infant death tend to be reflected in female-skewed childhood sex ratios. Assembling historical vital statistics and census data, we document a striking relationship between childhood sex ratios and infant mortality. Based on that relationship, we provide new estimates of infant mortality for the nineteenth-century US, a population for whom we lack vital statistics but have rich census data. We find that infant mortality for US whites was roughly 70–80 deaths per 1000 in the mid-nineteenth century._
    </ul>
