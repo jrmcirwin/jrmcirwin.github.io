@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.11)  3 OCT 2024 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.6)  29 OCT 2024 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv_McDevitt_Irwin.tex
 (./cv_McDevitt_Irwin.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-30>
+L3 programming layer <2024-09-10>
 (/home/jrmcirwin/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (/home/jrmcirwin/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -484,21 +484,21 @@ enddocument/afterlastpage: lastpage setting LastPage.
 (./cv_McDevitt_Irwin.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-30>
+L3 programming layer <2024-09-10>
  ***********
 Package rerunfilecheck Info: File `cv_McDevitt_Irwin.out' has not changed.
 (rerunfilecheck)             Checksum: 33AD3A871C953EDF65ECE9E083B9B25A;1218.
  ) 
 Here is how much of TeX's memory you used:
- 13449 strings out of 475539
- 204513 string characters out of 5777353
- 615158 words of memory out of 5000000
+ 13448 strings out of 475539
+ 204462 string characters out of 5777095
+ 615163 words of memory out of 5000000
  35862 multiletter control sequences out of 15000+600000
  591653 words of font info for 89 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,79p,1206b,496s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1206b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jrmcirwin/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></home/jrmcirwin/.TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></home/jrmcirwin/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/jrmcirwin/.TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></home/jrmcirwin/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/jrmcirwin/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/jrmcirwin/.TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_McDevitt_Irwin.pdf (2 pages, 96484 bytes).
+Output written on cv_McDevitt_Irwin.pdf (2 pages, 97727 bytes).
 PDF statistics:
  129 PDF objects out of 1000 (max. 8388607)
  93 compressed objects within 1 object stream
