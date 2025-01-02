@@ -56,18 +56,18 @@ Queen's University
 
 # Publications
 
-Child Anemia and the 2008 Food Price Crisis in Senegal. 2024. [_Demographic Research_](https://www.demographic-research.org/articles/volume/51/20).
+McDevitt-Irwin, Jesse. 2024. Child anemia and the 2008 food price crisis in Senegal. Demographic Research, 51, 637–668 ([link](https://www.demographic-research.org/articles/volume/51/20)).
 
-Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios
-(forthcoming, _Demographic Research_, [link](https://jrmcirwin.github.io/sr1/USimr.pdf)).
+McDevitt-Irwin, Jesse, and James R. Irwin. Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios. Forthcoming, Demographic Research ([link](https://jrmcirwin.github.io/sr1/USimr.pdf)).
 
 ---
 
 # Working Papers
 
-US Infant Mortality under Slavery and after Emancipation ([_in progress_](https://jrmcirwin.github.io/sr1/UsSlv.pdf)).
+McDevitt-Irwin, Jesse. US Infant Mortality under Slavery and after Emancipation ([_in progress_](https://jrmcirwin.github.io/sr1/UsSlv.pdf)).
 
-Childhood Sex Ratios Reveal Infant Mortality ([_in progress_](https://jrmcirwin.github.io/sr1/DemPap_1.pdf)).
+McDevitt-Irwin, Jesse, and James R. Irwin. Childhood Sex Ratios Reveal Infant Mortality  
+([_in progress_](https://jrmcirwin.github.io/sr1/DemPap_1.pdf)).
 
 ---
 
