@@ -11,18 +11,21 @@ Broadly speaking, I am interested in the interplay of health and 'development' -
 # Publications
 
 <details class="details-example">
+    <summary>  Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios. 2025. [_Demographic Research_](https://www.demographic-research.org/articles/volume/52/10). </summary>
+    <ul>
+    _We offer a new empirical basis for characterizing infant mortality: childhood sex ratios. Because males are biologically more vulnerable than females to infant mortality, high rates of infant death tend to be reflected in female-skewed childhood sex ratios. Assembling historical vital statistics and census data, we document a striking relationship between childhood sex ratios and infant mortality. Based on that relationship, we provide new estimates of infant mortality for the nineteenth-century US, a population for whom we lack vital statistics but have rich census data. We find that infant mortality for US whites was roughly 70–80 deaths per 1000 in the mid-nineteenth century._
+   </ul>
+</details>
+
+
+<details class="details-example">
     <summary> Child Anemia and the 2008 Food Price Crisis in Senegal. 2024. [_Demographic Research_](https://www.demographic-research.org/articles/volume/51/20). </summary>
     <ul>
     _I estimate the effects of the 2008 food price crisis on child hemoglobin in Senegal. Early-life hemoglobin reflects in-utero iron deposition, making it a bio-marker for maternal malnutrition. By comparing children in-utero during the 2008 crisis to those who were breastfeeding, I develop a quasi-experimental framework to quantify the impact of the 2008 crisis on maternal-infant health. I find large negative impacts of the crisis in urban Senegal, and no impact in rural areas. The effect was largest in Dakar, where it implied a more than doubling of the prevalence childhood anemia, from 1-in-3 children to 3-in-4._
   </ul>
 </details>
 
-<details class="details-example">
-    <summary>  Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios (forthcoming, _Demographic Research_, [link](https://jrmcirwin.github.io/sr1/USimr.pdf)) </summary>
-    <ul>
-    _We offer a new empirical basis for characterizing infant mortality: childhood sex ratios. Because males are biologically more vulnerable than females to infant mortality, high rates of infant death tend to be reflected in female-skewed childhood sex ratios. Assembling historical vital statistics and census data, we document a striking relationship between childhood sex ratios and infant mortality. Based on that relationship, we provide new estimates of infant mortality for the nineteenth-century US, a population for whom we lack vital statistics but have rich census data. We find that infant mortality for US whites was roughly 70–80 deaths per 1000 in the mid-nineteenth century._
-   </ul>
-</details>
+
 
 # Working Papers
 

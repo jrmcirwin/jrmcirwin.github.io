@@ -31,6 +31,8 @@ Northwestern University
 
 > __Postdoctoral Scholar__ at the Center for Economic History  \hfill 2024--2025
 
+> __Lecturer__ in the Economics Department \hfill 2024--2025
+
 University of Chicago
 
 > __Lecturer__ in the Social Sciences Collegiate Division  \hfill 2023--2024
@@ -42,7 +44,6 @@ University of Chicago
 Columbia University
 
 >__Ph.D.__ in Sustainable Development  \hfill 2024
-
 
 University of British Columbia
 
@@ -56,9 +57,11 @@ Queen's University
 
 # Publications
 
+McDevitt-Irwin, Jesse, and James R. Irwin. 2025. Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios. Demographic Research, 52, 303-350. ([link](https://www.demographic-research.org/articles/volume/52/10)).
+
 McDevitt-Irwin, Jesse. 2024. Child anemia and the 2008 food price crisis in Senegal. Demographic Research, 51, 637–668 ([link](https://www.demographic-research.org/articles/volume/51/20)).
 
-McDevitt-Irwin, Jesse, and James R. Irwin. Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios. Forthcoming, Demographic Research ([link](https://jrmcirwin.github.io/sr1/USimr.pdf)).
+
 
 ---
 
@@ -68,6 +71,7 @@ McDevitt-Irwin, Jesse. US Infant Mortality under Slavery and after Emancipation 
 
 McDevitt-Irwin, Jesse, and James R. Irwin. Childhood Sex Ratios Reveal Infant Mortality  
 ([_in progress_](https://jrmcirwin.github.io/sr1/DemPap_1.pdf)).
+
 
 ---
 
