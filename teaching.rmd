@@ -23,3 +23,7 @@ title: "Teaching"
     This course introduces students to the process of doing academic research, and moving from being consumers to producers of knowledge. My section focused on demographic research in a global context, including fertility, mortality and immigration. Students developed independent research projects with my guidance, culminating in a mini research paper. 
   </ul>
 </details>
+
+# Resources
+
+[Here](DHS_surveys_by_country.pdf) is a map of DHS surveys by country.
