@@ -9,7 +9,6 @@ title: "CV"
 author: Jesse McDevitt-Irwin
 
 jobtitle: "Postdoctoral Scholar, Northwestern University"
-address: "2211 Campus Dr · Evanston, IL 60208"
 fontawesome: yes
 email: jesse.mcdevittirwin@northwestern.edu
 updated: yes
@@ -23,20 +22,6 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 linkcolor: black
 urlcolor: blue
----
-
-# Academic Positions
-
-Northwestern University
-
-> __Postdoctoral Scholar__ at the Center for Economic History  \hfill 2024--2025
-
-> __Lecturer__ in the Economics Department \hfill 2024--2025
-
-University of Chicago
-
-> __Lecturer__ in the Social Sciences Collegiate Division  \hfill 2023--2024
-
 ---
 
 # Education
@@ -55,22 +40,19 @@ Queen's University
 
 ---
 
-# Publications
+# Academic Positions
 
-McDevitt-Irwin, Jesse, and James R. Irwin. 2025. Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios. Demographic Research, 52, 303-350. ([link](https://www.demographic-research.org/articles/volume/52/10)).
+Northwestern University
 
-McDevitt-Irwin, Jesse. 2024. Child anemia and the 2008 food price crisis in Senegal. Demographic Research, 51, 637–668 ([link](https://www.demographic-research.org/articles/volume/51/20)).
-
-
+> __Postdoctoral Scholar__ at the Center for Economic History  \hfill 2024--2025
 
 ---
 
-# Working Papers
+# Publications
 
-McDevitt-Irwin, Jesse. US Infant Mortality under Slavery and after Emancipation ([_in progress_](https://jrmcirwin.github.io/sr1/UsSlv.pdf)).
+1. McDevitt-Irwin, Jesse. 2024. Child anemia and the 2008 food price crisis in Senegal.\newline _Demographic Research_, 51, 637–668.
 
-McDevitt-Irwin, Jesse, and James R. Irwin. Childhood Sex Ratios Reveal Infant Mortality  
-([_in progress_](https://jrmcirwin.github.io/sr1/DemPap_1.pdf)).
+2. McDevitt-Irwin, Jesse, and James R. Irwin. 2025. Infant Mortality among US Whites in the 19th Century: New Evidence from Childhood Sex Ratios. _Demographic Research_, 52, 303-350.
 
 
 ---
@@ -79,11 +61,14 @@ McDevitt-Irwin, Jesse, and James R. Irwin. Childhood Sex Ratios Reveal Infant Mo
 
 Northwestern University, Lecturer \hfill 2025
 
-ECON 323-2 Economic History of the US post 1860
+> ECON 323-2 Economic History of the US post 1860
+
+> GH 390 Methods in Global Health
+
 
 University of Chicago, Lecturer \hfill 2023--2024
 
-SOSC 16300 Global Society-III 
+> SOSC 16300 Global Society-III 
 
 ---
 
