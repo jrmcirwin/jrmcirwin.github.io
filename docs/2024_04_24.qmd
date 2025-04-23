@@ -1,0 +1,160 @@
+---
+title: "Analyzing Water Insecurity with DHS Data in R"
+author: "Jesse McDevitt-Irwin"
+format: html
+editor: visual
+---
+
+## 🧭 Overview
+
+In this lab, we will:
+
+-   Clean and recode variables for the JMP Drinking Water Ladder
+-   Construct the 12-item WISE (Water InSecurity Experiences) Scale
+-   Visualize patterns of water access and insecurity using `ggplot2`
+-   Practice using `mutate()`, `case_when()`, `across()`, and `summarize()`
+
+We'll use the **2022-23 Mozambique DHS** household dataset. You should have it loaded as `hr_raw`.
+
+------------------------------------------------------------------------
+
+## 🧪 Setup
+
+```{r}
+# Load required packages
+library(tidyverse)
+library(haven)
+library(summarytools)
+
+# Clear your R environment
+rm(list = ls())
+
+# Select only relevant household variables
+vars_hr <- c(
+  "hhid", "hv001", "hv002", "hv005", "hv008", "hv009", "hv024", "hv025", "hv204",
+  "shwa17","hv025",
+  "sh108g", "sh108o", "sh108h", "sh108i", "sh108j", "sh108k",
+  "sh108l", "sh108m", "sh108n", "sh108p", "sh108q", "sh108r"
+)
+
+# Load the household recode file
+hr_raw <- read_dta("Raw/MZHR81FL.DTA", col_select = all_of(vars_hr))
+```
+
+------------------------------------------------------------------------
+
+## 🔹 JMP Drinking Water Ladder
+
+### Step 1: Classify JMP levels
+
+```{r}
+# Fill in variable names and categories
+hr_raw <- hr_raw %>%
+    mutate(jmp_water = case_when(
+    is.na(shwa17) ~ NA,
+    shwa17 %in% c(10,11) ~ "Safely Managed",  # piped into dwelling
+    shwa17 %in% c(12,13,14,21,31,41) & hv204 <= 30 ~ "Basic",
+    shwa17 %in% c(12,13,14,21,31,41) & hv204 > 30 ~ "Limited",
+    shwa17 %in% c(32,42,51,71,72) ~ "Unimproved",
+    shwa17 == 81 ~ "Surface Water",
+    TRUE ~ "Other/Unknown"
+  )) %>% 
+   mutate(jmp_water = factor(jmp_water,
+                            levels = c("Safely Managed", 
+                                       "Basic", "Limited", 
+                                       "Unimproved", "Surface Water", 
+                                       "Other/Unknown"),
+                            ordered = TRUE))
+
+```
+
+**Think-Pair-Share**: What is the overall purpose of this code? Look through each line. Find at least one line you do not understand. Discuss with your neighbor.
+
+### Step 2: Plot JMP ladder
+
+```{r}
+# Plot a bar chart of JMP categories
+hr_raw %>% drop_na(jmp_water) %>% 
+  ggplot(aes(x = jmp_water)) +
+  geom_bar() +
+  coord_flip() +
+  labs(title = "JMP Drinking Water Ladder", x = "", y = "Households")
+```
+
+**Think-Pair-Share**: What is something you'd like to change about this figure, visually?
+
+------------------------------------------------------------------------
+
+## 🔹 WISE Scale (12 Items)
+
+### Step 1: Recode 1–5 values to 0–3
+
+```{r}
+wise_vars <- c("sh108g", "sh108o", "sh108h", "sh108i", "sh108j", "sh108k",
+               "sh108l", "sh108m", "sh108n", "sh108p", "sh108q", "sh108r")
+
+# Use case_when to recode
+hr_raw <- hr_raw %>%
+  mutate(across(all_of(wise_vars), ~ case_when(
+    .x == 1 ~ 0,
+    .x == 2 ~ 1,
+    .x == 3 ~ 2,
+    .x %in% c(4,5) ~ 3,
+    TRUE ~ NA_real_
+  ), .names = "recoded_{.col}"))
+```
+
+### Step 2: Calculate WISE score
+
+```{r}
+hr_raw <- hr_raw %>%
+  mutate(WISE_score = rowSums(across(starts_with("recoded_")))) %>% 
+  mutate(WISE_category = case_when(
+            WISE_score <= 2 ~ "No-to-marginal",
+            WISE_score <= 11 ~ "Low",
+            WISE_score <= 23 ~ "Moderate",
+            WISE_score >= 24 ~ "High",
+            TRUE ~ NA)
+        ) %>% 
+  mutate(WISE_category = factor(WISE_category,
+                                levels = c("No-to-marginal", "Low", 
+                                           "Moderate", "High"),
+                                ordered = TRUE))
+```
+
+**Think-Pair-Share**: What is the overall purpose of these code chunks? Look through each line. Find at least one line you do not understand. Discuss with your neighbor.
+
+### Step 3: Plot WISE score distribution
+
+```{r}
+hr_raw %>%  
+  ggplot(aes(x = WISE_category)) +
+  geom_bar() +
+  coord_flip() +
+  labs(title = "WISE Score Distribution", x = "Score (0–36)", y = "Households")
+```
+
+**Think-Pair-Share**: What is something you'd like to change about this figure, visually?
+
+------------------------------------------------------------------------
+
+### Step 4: WISE Score by Urban-Rural
+
+```{r}
+hr_raw %>%
+  mutate(hv025 = as_factor(hv025)) %>% 
+  group_by(hv025) %>%
+  summarise(mean_wise = mean(WISE_score)) %>%
+  ggplot(aes(x = hv025, y = mean_wise, fill = hv025)) +
+  geom_col() +
+  labs(title = "Average WISE Score by Residence Type",
+       x = "Residence Type",
+       y = "Average WISE Score") +
+  theme_minimal()
+```
+
+**Think-Pair-Share**: What is something you'd like to change about this figure, visually?
+
+## ✅ Bonus Challenge
+
+-   Group WISE scores by wealth quintile (`hv270)` and plot with `ggplot`
