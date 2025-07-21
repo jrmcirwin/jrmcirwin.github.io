@@ -37,10 +37,5 @@ Broadly speaking, I am interested in the interplay of health and 'development' -
 </details>
 
 
-<details class="details-example">
-    <summary> Childhood Sex Ratios Reveal Infant Mortality ([_in progress_](https://jrmcirwin.github.io/sr1/DemPap_1.pdf))</summary>
-    <ul> 
-      _We offer a new approach to characterizing broad patterns of infant mortality, using childhood sex ratios. Girls are hardier than boys, with lower rates of infant mortality unless their biological advantage is offset by sex discrimination. Therefore, high levels of infant mortality tend to skew the surviving population toward females. Extremes of male-biased sex ratios are familiar as indicators of missing women, but the potential for sex-ratio data to reveal patterns of infant mortality estimates has gone largely unnoticed. We document the relationship between infant mortality and childhood sex ratios in historical data from Europe and its settler colonies, showing that broad patterns of infant mortality can be inferred from sex-ratio data. Widely available from census data, childhood sex ratios can shed new light on infant mortality and maternal health in populations lacking mortality data._
-    </ul>
-</details>
+
 

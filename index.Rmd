@@ -1,6 +1,6 @@
 ---
 title: "Jesse McDevitt-Irwin"
-image: "enclosure.jpg"
+image: "images/image.jpg"
 site: distill::distill_website
 links:
   - label: Email
@@ -8,16 +8,13 @@ links:
   - label: Scholar
     url: "https://scholar.google.com/citations?hl=en&user=r-tmJwcAAAAJ"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
- 
-Hello world! I am a postdoctoral scholar at the [Center for Economic History](https://sites.northwestern.edu/cfeh/) at Northwestern University. I obtained a PhD in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University in 2024.
 
-Trained as an economist, I do interdisciplinary research on health and demography. I am also passionate about teaching and lecture part time at the University of Chicago and Northwestern University. I also build [cedar-strip canoes](images/canoe.jpg).
+## Bio
 
+Hello world! I am a [Harper-Schmidt Fellow](https://college.uchicago.edu/faculty/society-of-fellows) (Collegiate Assistant Professor) at the University of Chicago, where I teach Global Society in the [College Core](https://college.uchicago.edu/academics/core/social-sciences-core). Trained as a quantitative social scientist, I do interdisciplinary research on demography and population health.
 
-----
+Before joining the University of Chicago, I was a postdoctoral scholar at the [Center for Economic History](https://sites.northwestern.edu/cfeh/) at Northwestern University. In 2024, I obtained a PhD in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) from Columbia University. 
 
-* 2025-02-18: My paper on sex ratios and infant mortality has been [published](https://www.demographic-research.org/articles/volume/52/10) in _Demographic Research_.
-
-* 2024-09-11: My paper "Child Anemia and the 2008 food price crisis in Senegal" has been [published](https://www.demographic-research.org/articles/volume/51/20) in _Demographic Research_.
+When not on campus, you're most likely to find me [wilderness canoeing](images/canoe.jpg), enjoying the [Chicago lake shore](images/PXL_20250715_121231351.jpg), or reading sci-fi and fantasy ([current recommendation](https://en.wikipedia.org/wiki/The_Murderbot_Diaries)). 

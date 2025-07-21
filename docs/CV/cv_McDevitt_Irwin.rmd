@@ -24,6 +24,19 @@ linkcolor: black
 urlcolor: blue
 ---
 
+# Academic Positions
+
+University of Chicago
+
+> __Collegiate Assistant Professor__ in the Social Science Division \hfill 2025--Present
+
+
+Northwestern University
+
+> __Postdoctoral Scholar__ at the Center for Economic History  \hfill 2024--2025
+
+---
+
 # Education
 
 Columbia University
@@ -40,13 +53,6 @@ Queen's University
 
 ---
 
-# Academic Positions
-
-Northwestern University
-
-> __Postdoctoral Scholar__ at the Center for Economic History  \hfill 2024--2025
-
----
 
 # Publications
 
@@ -58,6 +64,10 @@ Northwestern University
 ---
 
 # Teaching Experience
+
+University of Chicago \hfill 2025--present
+
+> SOSC 16300 Global Society I--III
 
 Northwestern University, Lecturer \hfill 2025
 
@@ -80,6 +90,8 @@ English  (_native_); French  (_fluent_); Spanish (_B2_); Wolof (_intermediate_)
 
 # Awards
 
+Harper-Schmidt Fellow in the Society of Liberal Arts, University of Chicago \hfill 2025--2029
+
 SSHRC Doctoral Fellowship \hfill 2021--2023
 
 Wu Fellowship, Columbia University \hfill 2018--2019
@@ -90,13 +102,15 @@ Dean's Fellow, Columbia University \hfill 2018-2023
 
 # Presentations
 
-Northwestern Economic History Seminar \hfill Oct. 2024
+Social Science History Association \hfill 2025
+
+Northwestern Economic History Seminar \hfill 2024
 
 Population Association of America, Annual Meeting \hfill 2023
 
-Northwestern Economic History Workshop \hfill Feb. 2023
+Northwestern Economic History Workshop \hfill 2023
 
-University of Chicago Demography Workshop \hfill Jan. 2023
+University of Chicago Demography Workshop \hfill 2023
 
 Canadian Economic Association Conference, Canadian Network of Economic History \hfill  2022
 
