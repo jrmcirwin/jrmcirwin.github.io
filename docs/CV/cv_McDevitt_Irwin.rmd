@@ -7,10 +7,8 @@ geometry: margin=1in
 
 title: "CV"
 author: Jesse McDevitt-Irwin
-
-jobtitle: "Postdoctoral Scholar, Northwestern University"
 fontawesome: yes
-email: jesse.mcdevittirwin@northwestern.edu
+email: jrmcirwin@uchicago.edu
 updated: yes
 web: jrmcirwin.github.io
 
@@ -28,12 +26,12 @@ urlcolor: blue
 
 University of Chicago
 
-> __Collegiate Assistant Professor__ in the Social Science Division \hfill 2025--Present
+> Collegiate Assistant Professor in the Social Science Division \hfill 2025--
 
 
 Northwestern University
 
-> __Postdoctoral Scholar__ at the Center for Economic History  \hfill 2024--2025
+> Postdoctoral Scholar at the Center for Economic History  \hfill 2024--2025
 
 ---
 
@@ -41,15 +39,15 @@ Northwestern University
 
 Columbia University
 
->__Ph.D.__ in Sustainable Development  \hfill 2024
+>Ph.D. in Sustainable Development  \hfill 2024
 
 University of British Columbia
 
->__M.A.__ in Economics \hfill 2017
+>M.A. in Economics \hfill 2017
 
 Queen's University
 
->__B.A.__ in Applied Economics \hfill 2016
+>B.A. in Applied Economics \hfill 2016
 
 ---
 
@@ -65,20 +63,20 @@ Queen's University
 
 # Teaching Experience
 
-University of Chicago \hfill 2025--present
+University of Chicago \hfill 2025--
 
-> SOSC 16300 Global Society I--III
+> SOSC 16300 Global Society
 
 Northwestern University, Lecturer \hfill 2025
 
 > ECON 323-2 Economic History of the US post 1860
 
-> GH 390 Methods in Global Health
+> ANT 390 Methods in Global Health
 
 
 University of Chicago, Lecturer \hfill 2023--2024
 
-> SOSC 16300 Global Society-III 
+> SOSC 16300 Global Society 
 
 ---
 
