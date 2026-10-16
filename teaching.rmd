@@ -2,28 +2,50 @@
 title: "Teaching"
 ---
 
+I teach the Global Society sequence in the [College Core](https://college.uchicago.edu/academics/core/social-sciences-core) at the University of Chicago. My courses move students from consuming research to producing it: the course ends in an independent research project built on real data.
+
 # Classes Designed
 
 <details class="details-example">
     <summary> The Demographic History of the US post 1860 <br>
     (ECON 323-2) at Northwestern University  (Winter 2025)
     </summary>
-    <ul>
-    This course examines the demographic history of the US from after the Civil War to the mid 20th century. Students learn core demographic concepts and measures, like fertility and mortality rates. They explore the demographic patterns and changes in the United States. They examine leading theories for fertility and mortality decline, as well as exploring the role of immigration in US history. Students will learn to analyze publicly available census microdata from IPUMS, culminating in an independent research project. 
-  </ul>
+    <p>
+    Listed in the catalogue as <em>Economic History of the United States since 1865</em>; I designed and taught it as a course in demographic history.
+    </p>
+    <p>
+    This course examines the demographic history of the US from after the Civil War to the mid 20th century. Students learn core demographic concepts and measures, like fertility and mortality rates. They explore the demographic patterns and changes in the United States. They examine leading theories for fertility and mortality decline, as well as exploring the role of immigration in US history. Students learn to analyze publicly available census microdata from IPUMS, culminating in an independent research project.
+    </p>
 </details>
 
 # Classes Taught
 
 <details class="details-example">
-    <summary> Global Society III: Research Practicum <br>
-    (SOSC-16300) at the University of Chicago  (2023--2024)
+    <summary> Global Society I, II and III <br>
+    (SOSC 16100 / 16200 / 16300) at the University of Chicago  (2025--present)
     </summary>
-    <ul>
-    This course introduces students to the process of doing academic research, and moving from being consumers to producers of knowledge. My section focused on demographic research in a global context, including fertility, mortality and immigration. Students developed independent research projects with my guidance, culminating in a mini research paper. 
-  </ul>
+    <p>
+    A three-quarter Core social sciences sequence, which I teach in two sections each year. The first two quarters work through foundational texts on development, inequality and population, with quantitative labs in the winter quarter that introduce students to working with data directly. The third quarter is a research practicum: each student develops an independent project from question formulation through to a 6,000-word paper.
+    </p>
 </details>
 
-# Resources
+<details class="details-example">
+    <summary> Global Society III: Research Practicum <br>
+    (SOSC 16300) at the University of Chicago  (2023--2024)
+    </summary>
+    <p>
+    This course introduces students to the process of doing academic research, and moving from being consumers to producers of knowledge. My section focused on demographic research in a global context, including fertility, mortality and immigration. Students developed independent research projects with my guidance, culminating in a mini research paper.
+    </p>
+    <p>
+    <em>Instructor evaluations, overall contribution to learning: 5.00 / 5.00 (2024), 4.90 / 5.00 (2023).</em>
+    </p>
+</details>
 
-[Here](DHS_surveys_by_country.pdf) is a map of DHS surveys by country.
+<details class="details-example">
+    <summary> Methods in Global Health <br>
+    (ANT 390) at Northwestern University  (2025)
+    </summary>
+    <p>
+    A seminar on quantitative and qualitative methods in global health research, co-taught with Sera Young. I led the statistical computing component, teaching students to work with survey data in R and to evaluate measurement choices in global health indicators.
+    </p>
+</details>

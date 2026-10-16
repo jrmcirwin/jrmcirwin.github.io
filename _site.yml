@@ -13,5 +13,5 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
-      href: CV/cv_McDevitt_Irwin.pdf
+      href: McDevitt-Irwin_CV_2026-10.pdf
 output: distill::distill_article

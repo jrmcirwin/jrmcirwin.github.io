@@ -5,8 +5,10 @@ site: distill::distill_website
 links:
   - label: Email
     url: "mailto:jesse.mcdevittirwin@northwestern.edu"
-  - label: Scholar
-    url: "https://scholar.google.com/citations?hl=en&user=r-tmJwcAAAAJ"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=ZGVdYOYAAAAJ"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-2174-2121"
 output:
   postcards::trestles
 ---
@@ -17,4 +19,4 @@ Hello world! I am a [Collegiate Assistant Professor](https://college.uchicago.ed
 
 Before joining the University of Chicago, I was a postdoctoral scholar at the [Center for Economic History](https://sites.northwestern.edu/cfeh/) at Northwestern University. I have a PhD in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) from Columbia University. 
 
-Off campus, you're most likely to find me [wilderness canoeing](images/canoe.jpg), enjoying the [Chicago lake shore](images/PXL_20250715_121231351.jpg), or reading sci-fi and fantasy ([current recommendation](https://en.wikipedia.org/wiki/The_Murderbot_Diaries)). 
+Off campus, you're most likely to find me [wilderness canoeing](images/canoe.jpg), enjoying the [Chicago lake shore](images/PXL_20250715_121231351.jpg), or reading sci-fi and fantasy ([current recommendation](https://en.wikipedia.org/wiki/Tress_of_the_Emerald_Sea)). 
