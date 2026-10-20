@@ -4,7 +4,7 @@ image: "images/image.jpg"
 site: distill::distill_website
 links:
   - label: Email
-    url: "mailto:jesse.mcdevittirwin@northwestern.edu"
+    url: "mailto:jrmcirwin@uchicago.edu"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=ZGVdYOYAAAAJ"
   - label: ORCID
