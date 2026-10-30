@@ -1,66 +1,73 @@
 ---
-  title: "Research"
+title: "Research"
 ---
-  
-I study population health in data-scarce settings. One side of my work develops childhood sex ratios as a proxy for early-life mortality: because boys die at higher rates in infancy, the sex composition of surviving children carries a mortality signal that a census can recover even when we lack vital statistics. I apply this novel indicator to the historical US, where we lack vital statistics but have excellent census data.
 
-Another strand of my work focuses on maternal-infant health in contemporary sub-Saharan Africa, based on Demographic and Health Survey (DHS) data. 
+I study population health in data-scarce settings. One strand of my work develops childhood sex ratios as a proxy for early-life mortality. Because boys die at higher rates in infancy, the sex composition of surviving children carries a signal that a census can recover. I apply this indicator to the historical US, where we lack vital statistics but have excellent census data.
 
-# Publications
+Another strand of my work focuses on maternal-infant health in contemporary sub-Saharan Africa. Using Demographic and Health Survey (DHS) data, I explore how food and water insecurity contribute to child health outcomes.
 
-<details class="details-example">
-    <summary> **Infant Mortality among US Whites in the 19th Century: 
-    New Evidence from Childhood Sex Ratios** 
-    with James R. Irwin · <em>Demographic Research</em>. 2025.
+## Publications
+
+<details class="entry">
+    <summary> **Infant Mortality among US Whites in the 19th Century:
+    New Evidence from Childhood Sex Ratios**
+    with James R. Irwin · <em>Demographic Research</em> 52: 303–350. 2025.
     </summary>
     <p>
-    Uses childhood sex ratios, which skew female when infant mortality is high, to
-    estimate 19th-century US infant mortality. Estimates for US whites are roughly
-    70–80 deaths per 1,000 in the mid-1800s.
+    We use childhood sex ratios, which skew female when infant mortality is high, to
+    estimate 19th-century US infant mortality. For US whites we find roughly 70–80
+    deaths per 1,000 in the mid-1800s.
     </p>
-    <p><a href="https://www.demographic-research.org/articles/volume/52/10">Demographic Research</a> 52: 303–350.</p>
+    <p><a href="https://www.demographic-research.org/articles/volume/52/10">Read the article</a></p>
 </details>
 
-<details class="details-example">
-    <summary> **Child Anemia and the 2008 Food Price Crisis in Senegal**  · 
-    <em>Demographic Research</em>. 2024.
+<details class="entry">
+    <summary> **Child Anemia and the 2008 Food Price Crisis in Senegal** ·
+    <em>Demographic Research</em> 51: 637–668. 2024.
     </summary>
     <p>
-    Examines how the 2008 food price crisis affected child hemoglobin in Senegal,
+    I examine how the 2008 food price crisis affected child hemoglobin in Senegal,
     using a quasi-experimental comparison of in-utero and breastfeeding children.
-    Urban areas, especially Dakar, saw large negative effects, while rural areas
-    showed none.
+    I find large negative effects in urban areas, especially Dakar, and none in
+    rural areas.
     </p>
-    <p><a href="https://www.demographic-research.org/articles/volume/51/20">Demographic Research</a> 51: 637–668.</p>
+    <p><a href="https://www.demographic-research.org/articles/volume/51/20">Read the article</a></p>
 </details>
 
-# Working Papers
+## Working Papers
 
-<details class="details-example">
-    <summary> **The Hidden Costs of Mass Deportations: 
-    Early-Life Mortality and the 1930s Mexican Repatriation** 
+<details class="entry">
+    <summary> **The Hidden Costs of Mass Deportations:
+    Early-Life Mortality and the 1930s Mexican Repatriation**
     with Sergio Eduardo López Araiza Bejar (October 2026)
     </summary>
     <p>
     The repatriation campaigns of the 1930s removed a large share of the Mexican-origin
     population of the United States, including many US-born children. We use childhood
-    sex ratios to estimate the effect on early-life mortality among Mexican immigrants in Texas. 
-    We find that the campaign caused a major shift towards females among the affected population, 
-    implying a large increase in early life mortality. 
+    sex ratios to estimate the effect on early-life mortality among Mexican immigrants in Texas.
+    We find that the campaign caused a major shift toward females among the affected population,
+    implying a large increase in early-life mortality.
     </p>
     <p><a href="https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/c/9329/files/2026/10/sergio_jmp_draft_1015.pdf">Draft</a></p>
 </details>
 
-# Works in Progress
+## Works in Progress
 
 - **Black Health in Slavery and Freedom: New Evidence from Childhood Sex Ratios.**
-  With James R. Irwin. Estimates infant mortality among US Black and white populations,
+  With James R. Irwin. We estimate infant mortality among US Black and white populations,
   1850–1880, using childhood sex ratios and European vital statistics.
 
 - **Comparing the JMP Drinking Water Ladder and the HWISE Scale in the 2022–23
-  Mozambique DHS.** With Sera Young and Indira Bose. Compares an infrastructure-based
-  and an experience-based measure of household water access in a single survey.
+  Mozambique DHS.** With Indira Bose, Joshua Miller and Sera Young. We compare an
+  infrastructure-based and an experience-based measure of household water access in a
+  single survey.
 
-- **Solving the Antebellum Puzzle: New Evidence from Childhood Sex Ratios.**
+- **The Industrialization Puzzle in the US: New Evidence from Childhood Sex Ratios.**
+  I use childhood sex ratios to show that US population health deteriorated across the
+  period 1850–1910, not just before the Civil War, recasting the “Antebellum Puzzle” as an
+  “Industrialization Puzzle.”
 
 - **Sex Ratio at Birth and the HIV Epidemic in South Africa.** With Jenny Trinitapoli.
+  We find that HIV prevalence is associated with female-skewed sex ratios at birth in South
+  Africa, and could account for roughly half the gap from a biologically normal ratio. This
+  relationship weakened with the expansion of antiretroviral drugs.

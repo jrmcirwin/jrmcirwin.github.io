@@ -111,3 +111,26 @@ a:hover {
   background-color: rgba(249, 250, 247, 0.8);
 }*/
 
+/* Collapsible entries (research + teaching pages) */
+
+details.entry, details.course {
+  margin: 0.75rem 0 1.75rem;
+}
+
+details.entry > summary, details.course > summary {
+  cursor: pointer;
+  padding: 0.2rem 0;
+  color: var(--header-color, rgba(0, 49, 60, 1));
+}
+
+details.entry > summary:hover, details.course > summary:hover {
+  color: var(--hover-color, rgba(0, 49, 60, 0.4));
+}
+
+details.entry[open] > summary, details.course[open] > summary {
+  margin-bottom: 0.7rem;
+}
+
+details.entry[open] > :not(summary), details.course[open] > :not(summary) {
+  margin-left: 1.25rem;
+}

@@ -2285,7 +2285,30 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*body {
     background-color: rgba(249, 250, 247, 0.8);
   }*/
-  </style>
+
+  /* Collapsible entries (research + teaching pages) */
+
+  details.entry, details.course {
+    margin: 0.75rem 0 1.75rem;
+  }
+
+  details.entry > summary, details.course > summary {
+    cursor: pointer;
+    padding: 0.2rem 0;
+    color: var(--header-color, rgba(0, 49, 60, 1));
+  }
+
+  details.entry > summary:hover, details.course > summary:hover {
+    color: var(--hover-color, rgba(0, 49, 60, 0.4));
+  }
+
+  details.entry[open] > summary, details.course[open] > summary {
+    margin-bottom: 0.7rem;
+  }
+
+  details.entry[open] > :not(summary), details.course[open] > :not(summary) {
+    margin-left: 1.25rem;
+  }</style>
   <style type="text/css">
   /* base style */
 
@@ -2494,47 +2517,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<p>I teach the Global Society sequence in the <a href="https://college.uchicago.edu/academics/core/social-sciences-core">College Core</a> at the University of Chicago. My courses move students from consuming research to producing it: the course ends in an independent research project built on real data.</p>
-<h1 id="classes-designed">Classes Designed</h1>
-<details class="details-example">
+<p>I teach the Global Society sequence in the <a href="https://college.uchicago.edu/academics/core/social-sciences-core">College Core</a> at the University of Chicago. Before this, at Northwestern University, I designed a course in demographic history and co-taught a course on global health methods.</p>
+<p>In my classes, students work from primary sources, from John Graunt’s life tables to recently-published regression tables, because in order to evaluate an argument you need to see it being made. My goal is for students not to have read the SparkNotes, but to be able to write them, along with an account of how the author developed their claims.</p>
+<p>My classroom approach follows from this: class time is device-free for group exercises and discussion, with laptops only coming out for computing work. Participation is judged on engagement with both the text and classmates. Assessment is built so that the work is the student’s own: in-person exams for reading-based courses and original research for the rest.</p>
+<h2 id="core-social-sciences-sequence">Core Social Sciences Sequence</h2>
+<p><strong>Global Society I, II and III</strong> — SOSC 16100 / 16200 / 16300 · University of Chicago · 2025–present</p>
+<p><em>Two sections each year, ~15 students each · three quarters from social theory through demographic methods to an independent research paper</em></p>
+<details class="course">
 <summary>
-The Demographic History of the US post 1860 <br>
-(ECON 323-2) at Northwestern University (Winter 2025)
+Course description and structure
 </summary>
-<p>
-Listed in the catalogue as <em>Economic History of the United States since 1865</em>; I designed and taught it as a course in demographic history.
-</p>
-<p>
-This course examines the demographic history of the US from after the Civil War to the mid 20th century. Students learn core demographic concepts and measures, like fertility and mortality rates. They explore the demographic patterns and changes in the United States. They examine leading theories for fertility and mortality decline, as well as exploring the role of immigration in US history. Students learn to analyze publicly available census microdata from IPUMS, culminating in an independent research project.
-</p>
+<p>A three-quarter Core social sciences sequence. The quarters are deliberately different in kind: the first works through foundational texts, the second teaches demographic methods alongside the intellectual history of population thought, and the third is a supervised research project.</p>
+<p><strong>I — Social theory.</strong> Foundational texts on society, development, inequality and population, such as Ibn Khaldun’s <em>Muqaddimah</em>, Thomas More’s <em>Utopia</em> and Nyerere’s <em>Ujamaa</em>.</p>
+<p><strong>II — Population and Society.</strong> Three parts. Population thought, reading large-scale studies of global population such as Malthus and McNeill’s <em>Plagues and Peoples</em>. Then demographic methods (Lexis diagrams, standardization and life tables) taught through weekly lab tutorials and problem sets. Then contemporary research on migration, fertility and marriage. Students leave able to construct a life table, standardize a comparison between populations, and look for demographic explanations of social phenomena.</p>
+<p><strong>III — Research Practicum.</strong> Each student develops an independent project from question formulation to a 4,000–6,000 word paper with a literature review, data and methods, and results. The quarter is scaffolded through a topic survey, research proposal, annotated bibliography, research update, draft figures and draft introduction. It ends with conference-style presentations and Q&amp;A.</p>
+<p>Previously, I taught one section of the third quarter as an adjunct lecturer (2023–2024).</p>
 </details>
-<h1 id="classes-taught">Classes Taught</h1>
-<details class="details-example">
+<h2 id="quantitative-and-methods-teaching">Quantitative and Methods Teaching</h2>
+<p><strong>The Demographic History of the US post 1860</strong> — ECON 323-2 · Northwestern University · Winter 2025</p>
+<p><em>Designed and taught solo · ~65 students · students analyze IPUMS census microdata · ends in an independent research project</em></p>
+<details class="course">
 <summary>
-Global Society I, II and III <br>
-(SOSC 16100 / 16200 / 16300) at the University of Chicago (2025–present)
+Course description
 </summary>
-<p>
-A three-quarter Core social sciences sequence, which I teach in two sections each year. The first two quarters work through foundational texts on development, inequality and population, with quantitative labs in the winter quarter that introduce students to working with data directly. The third quarter is a research practicum: each student develops an independent project from question formulation through to a 6,000-word paper.
-</p>
+<p>Listed in the catalog as <em>Economic History of the United States since 1865</em>; I designed and taught it as a course in demographic history. The course examines US demographic history from after the Civil War to the mid-twentieth century. Students learn core demographic concepts and measures, explore US demographic patterns and change, and examine leading theories of fertility and mortality decline alongside the role of immigration. They learn to analyze publicly available census microdata from IPUMS, culminating in an independent research project.</p>
 </details>
-<details class="details-example">
+<p><strong>Methods in Global Health</strong> — ANT 390 · Northwestern University · 2025</p>
+<p><em>Co-taught with Sera Young · ~15 students · I led the statistical computing component using Demographic and Health Survey (DHS) data</em></p>
+<details class="course">
 <summary>
-Global Society III: Research Practicum <br>
-(SOSC 16300) at the University of Chicago (2023–2024)
+Course description
 </summary>
-<p>
-This course introduces students to the process of doing academic research, and moving from being consumers to producers of knowledge. My section focused on demographic research in a global context, including fertility, mortality and immigration. Students developed independent research projects with my guidance, culminating in a mini research paper.
-</p>
-</details>
-<details class="details-example">
-<summary>
-Methods in Global Health <br>
-(ANT 390) at Northwestern University (2025)
-</summary>
-<p>
-A seminar on quantitative and qualitative methods in global health research, co-taught with Sera Young. I led the statistical computing component, teaching students to work with survey data in R and to evaluate measurement choices in global health indicators.
-</p>
+<p>A seminar on quantitative and qualitative methods in global health research. I led the statistical computing component, teaching students to work with survey data in R and to evaluate measurement choices in global health indicators. The course culminates in an independent research project using DHS data, presented in a conference-style poster.</p>
 </details>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
