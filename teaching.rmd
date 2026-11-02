@@ -4,9 +4,9 @@ title: "Teaching"
 
 I teach the Global Society sequence in the [College Core](https://college.uchicago.edu/academics/core/social-sciences-core) at the University of Chicago. Before this, at Northwestern University, I designed a course in demographic history and co-taught a course on global health methods.
 
-In my classes, students work from primary sources, from John Graunt's life tables to recently-published regression tables, because in order to evaluate an argument you need to see it being made. My goal is for students not to have read the SparkNotes, but to be able to write them, along with an account of how the author developed their claims.
+In my classes, students work learn to make and evaluate an argument from primary sources, ranging from Ibn Khaldun's Muqaddimah to John Graunt's life tables to census microdata from IPUMS. I want my students to be able to make an argument from scratch, not just repeat summaries.
 
-My classroom approach follows from this: class time is device-free for group exercises and discussion, with laptops only coming out for computing work. Participation is judged on engagement with both the text and classmates. Assessment is built so that the work is the student's own: in-person exams for reading-based courses and original research for the rest.
+My classroom approach follows from this: class time is device-free for group exercises and discussion, with laptops only coming out for computing work. Assessment is built so that the work is the student's own: in-person exams for reading-based courses and original research for the rest.
 
 ## Core Social Sciences Sequence
 
@@ -17,9 +17,9 @@ My classroom approach follows from this: class time is device-free for group exe
 <details class="course">
 <summary>Course description and structure</summary>
 
-A three-quarter Core social sciences sequence. The quarters are deliberately different in kind: the first works through foundational texts, the second teaches demographic methods alongside the intellectual history of population thought, and the third is a supervised research project.
+A three-quarter Core social sciences sequence. The first quarter works through works of social theory from around the world, the second teaches demographic methods alongside the intellectual history of population thought, and the third is a supervised research project.
 
-**I &mdash; Social theory.** Foundational texts on society, development, inequality and population, such as Ibn Khaldun's *Muqaddimah*, Thomas More's *Utopia* and Nyerere's *Ujamaa*.
+**I &mdash; Social theory.** Classic texts on society, development, inequality and population, such as Ibn Khaldun's *Muqaddimah*, Thomas More's *Utopia* and Nyerere's *Ujamaa*.
 
 **II &mdash; Population and Society.** Three parts. Population thought, reading large-scale studies of global population such as Malthus and McNeill's *Plagues and Peoples*. Then demographic methods (Lexis diagrams, standardization and life tables) taught through weekly lab tutorials and problem sets. Then contemporary research on migration, fertility and marriage. Students leave able to construct a life table, standardize a comparison between populations, and look for demographic explanations of social phenomena.
 
@@ -49,6 +49,6 @@ Listed in the catalog as *Economic History of the United States since 1865*; I d
 <details class="course">
 <summary>Course description</summary>
 
-A seminar on quantitative and qualitative methods in global health research. I led the statistical computing component, teaching students to work with survey data in R and to evaluate measurement choices in global health indicators. The course culminates in an independent research project using DHS data, presented in a conference-style poster.
+A seminar on quantitative and qualitative methods in global health research. I led the statistical computing component, teaching students to work with DHS data in R and to evaluate measurement choices in global health indicators. The course culminates in an independent research project, presented in a conference-style poster.
 
 </details>
